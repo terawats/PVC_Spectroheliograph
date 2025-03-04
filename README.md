@@ -49,6 +49,8 @@ Note: price are estimated for refferance only.
 
 ![Slit assy](https://github.com/user-attachments/assets/807be643-e18e-4737-bc8b-9a32699990ce)
 
+![IMG_1548 HEIC_compressed](https://github.com/user-attachments/assets/6d2010d9-ae5a-4d1a-9fd1-cb4dc003be5e)
+
 ![IMG_1647 HEIC_compressed](https://github.com/user-attachments/assets/fa08417d-61cf-4768-a490-d0124b0f90f1)
 
 ![IMG_1649 HEIC_compressed](https://github.com/user-attachments/assets/514a54e4-144f-499b-bbd8-acfb6d303411)
