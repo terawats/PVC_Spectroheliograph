@@ -10,19 +10,21 @@ Below is a setup condition and equipemnt for this project.
 Image of equipment when taken a solar
 
 ## Lists of devices
-1. 2" PVC Y Connector                                1pcs 
-2. 3D print parts form project SLT files             4pcs
-3. Pentax camera lens 135mm F/3.5 M42 mount          2pcs
-4. 49mm UV/IR filter (use only frame)                2pcs
-5. Worm screw                                        6pcs
-6. Gratting 2,400Line/mm 30x30mm                     1pcs
-7. Glass slit 7um width 13mm long                    1pcs
-8. Manual sliding table 60mm RS60-L                  1pcs
-9. Copper disk 40mm diameter 2mm thikness            1pcs
-10. Copper disk 25mm diameter 1mm thikness           1pcs
-11. M42x1.0 to M42x0.75 adapter ring                 2pcs
-12. M42 Extension tube                               3pcs
-13. M42 F to F adapter                               1pcs
+1. 2" PVC Y Connector(1.5USD)                                1pcs
+2. 3D print parts form project SLT files                     4pcs    
+3. Pentax camera lens 135mm F/3.5 M42 mount (15USD)          2pcs
+4. 49mm UV/IR filter (use only frame, 1.5USD)                2pcs
+5. Worm screw (0.4USD)                                       6pcs
+6. Gratting 2,400Line/mm 30x30mm (70-80USD)                  1pcs
+7. Glass slit 7um width 13mm long (70-80USD)                 1pcs
+8. Manual sliding table 60mm RS60-L (25USD)                  1pcs
+9. Copper disk 40mm diameter 2mm thikness (1.5USD)           1pcs
+10. Copper disk 25mm diameter 1mm thikness (1USD)            1pcs
+11. M42x1.0 to M42x0.75 adapter ring (8USD)                  2pcs
+12. M42 Extension tube (5-15USD)                             3pcs
+13. M42 F to F adapter (7-10USD)                             1pcs
+
+Note: price are estimated for refferance only.
 
 ## SHG assembly
 ![IMG_1507 HEIC_compressed](https://github.com/user-attachments/assets/246b250b-9443-4e0f-9219-068b76ed1979)
