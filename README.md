@@ -23,6 +23,8 @@ Image of equipment when taken a solar
 11. M42x1.0 to M42x0.75 adapter ring (8USD)                  2pcs
 12. M42 Extension tube (5-15USD)                             3pcs
 13. M42 F to F adapter (7-10USD)                             1pcs
+14. M42 to 1.25" adapter for cmos camear mount (10USD)       1pcs
+15. IMX678 Mono CMOS Camera (180-200USD)                     1pcs
 
 Note: price are estimated for refferance only.
 
